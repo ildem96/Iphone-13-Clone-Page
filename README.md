@@ -39,4 +39,4 @@ Este projeto é indicado para iniciantes que querem praticar:
 - Eventos de clique;
 - Alteração de atributos e classes no DOM.
 
-![preview-do-projeto]()
+![preview-do-projeto](https://github.com/ildem96/Iphone-13-Clone-Page/blob/main/img/animacao.gif?raw=true)
